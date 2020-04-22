@@ -1,0 +1,20 @@
+{
+    "name": "honghu/ranklist",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "1171213017",
+            "email": "1171213017@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "RankList\\Core\\": "src/RankList/Core"
+        }
+    }
+}
